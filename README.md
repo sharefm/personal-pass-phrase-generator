@@ -1,2 +1,2 @@
-# personal-pass-phrase-generator
+# Falcon passphrase generator
 yet another pass phrase generator
